@@ -60,6 +60,8 @@ new_data|>
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository.
 
+[The table presents key statistics for two categories, "Revolutions" and "No Revolutions," from the "GrowthSW" dataset. The average growth rate implies that the revolution group outgrew the no-revolution group on average. The standard deviation represents growth rate variability, with larger values suggesting more diverse growth. The least and maximum growth rates within each category are represented by the minimum and maximum growth values. These statistics shed light on the dynamics of growth and illustrate variations between the two groups in terms of average, variability, and range of growth rates.]
+
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
 In question 2, we have seen that growth rates differ markedly between countries that experienced at least one revolution/episode of political stability and countries that did not.
